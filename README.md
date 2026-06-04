@@ -7,6 +7,7 @@
 | Skill | Description | Use when |
 |---|---|---|
 | [hecaitou-style](./hecaitou-style/) | 用和菜头（公众号"槽边往事"作者）的结构与节奏写中文随笔，叙述者设定为 25 岁 | 写第一人称中文随笔、读后感、生活观察 |
+| [he-tongxue-video](./he-tongxue-video/) | 根据"想法.md"生成何同学风格的两份产出：视频文稿（旁白）+ 视频脚本（分镜） | 拿到视频选题想法，要生成可拍摄的完整脚本 |
 
 ## How to use
 
