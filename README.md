@@ -7,6 +7,7 @@
 | Skill | Description | Use when |
 |---|---|---|
 | [hecaitou-style](./hecaitou-style/) | 用和菜头（公众号"槽边往事"作者）的结构与节奏写中文随笔，叙述者设定为 25 岁 | 写第一人称中文随笔、读后感、生活观察 |
+| [yingshi-jufeng-script](./yingshi-jufeng-script/) | 用「影视飓风」(Tim/影视飓风工作室) 的风格，根据选题想法生成视频脚本（含镜头说明）和纯旁白文稿 | 写视频脚本、影视飓风/Tim 风格、科技数码/产品评测/跨平台对比 |
 | [he-tongxue-video](./he-tongxue-video/) | 根据"想法.md"生成何同学风格的两份产出：视频文稿（旁白）+ 视频脚本（分镜） | 拿到视频选题想法，要生成可拍摄的完整脚本 |
 
 ## How to use
